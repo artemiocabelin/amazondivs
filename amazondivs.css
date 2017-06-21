@@ -1,0 +1,172 @@
+/* classes */
+
+.options{
+    background-color: green;
+    border: 1px solid white;
+    display: inline-block;
+    height: 50px;
+    margin-right: -4px;
+    width: 100px;
+}
+
+.some_text{
+    height: 30px;
+    width: 80px;
+    background-color:lightcyan;
+    display: inline-block;
+}
+
+.some_text2{
+    height: 50px;
+    width: 80px;
+    background-color: goldenrod;
+    display: inline-block;
+    margin-right: -4px;
+    border: 1px solid white;
+}
+
+.ad {
+    display: inline-block;
+    height: 447px;
+    width: 244px;
+    background-color: white;
+    margin: 2px;
+    border: 1px solid black;
+    vertical-align: top;
+}
+
+.title{
+    height: 50px;
+    width: 244px;
+    background-color: grey;
+}
+
+.pic{
+    width: 120px;
+    height: 197px;
+    background-color: darkkhaki;
+    display: inline-block;
+}
+
+
+
+
+/* id */
+
+#wrapper{
+    background-color: aqua;
+    height: 1004px;
+    width: 1500px;
+}
+
+
+
+#top{
+    background-color: grey;
+    height: 50px;
+    margin-bottom: 0px;
+    width: 1500px;
+}
+
+#bar1 {
+    background-color: red;
+    height: 52px;
+    margin-top: 0px;
+    width: 1500px;
+    vertical-align: top;
+}
+
+#bar1-box1{
+    background-color: yellow;
+    height: 50px;
+    margin-right: 50px;
+    width: 170px;
+    display: inline-block;
+    border: 1px solid white;
+}
+
+#locations{
+    height: 50px;
+    width: 405px;
+    background-color: pink;
+    display: inline-block;
+    margin-left: 354px;
+}
+
+#language {
+    height: 50px;
+    width: 80px;
+    background-color: orange;
+    display: inline-block;
+    margin-right: -4px;
+}
+
+#account{
+    height: 50px;
+    width: 80px;
+    display: inline-block;
+    background-color: purple;
+    margin-right: -4px;
+}
+
+#sign-in{
+    height: 20px;
+    width: 80px;
+    background-color: brown;
+}
+
+#content{
+    height: 902px;
+    width: 1014px;
+    background-color: black;
+    margin: 0 auto;
+}
+
+#top_ad{
+    height: 449px;
+    width: 1014px;
+    background-color: darkmagenta;
+}
+
+#text1{
+    height: 40px;
+    width: 70px;
+    margin: 140px auto 0 auto;
+    background-color: salmon;
+}
+
+#text2{
+    height: 25px;
+    width: 140px;
+    margin: 0 auto;
+    background-color: navy;
+}
+
+#secure {
+    width: 180px;
+    height: 35px;
+    background-color: gold;
+    margin: 0 auto
+}
+
+#boxes {
+    height: 399px;
+    width: 244px;
+    background-color: seagreen;
+}
+
+#picture {
+    display: inline-block;
+    height: 224px;
+    width: 244px;
+    vertical-align: top;
+    background-color: lightcoral;
+}
+
+#deal {
+    height: 100px;
+    width: 100px;
+    background-color: firebrick;
+    display: inline-block;
+    vertical-align: top;
+}
